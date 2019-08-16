@@ -1,11 +1,9 @@
 # Scheme_Test
 
-This project is a sample project to add an Xcode scheme.
-There are three types of sukim.
-DEBUG, RELEASE, STAGING.
+このプロジェクトは、Xcodeスキームを追加するためのサンプルプロジェクトです。スキムには3つのタイプがあります。
 
-I added Build Target, Build Scheme and Build Configuration to make the scheme three.
+デバッグ、リリース、ステージングがあります。
 
-This is a simple sample application that adds a macro to ViewController.swift from the initial settings of the Xcode single view application and loads the log.
+ビルドターゲット、ビルドスキーム、ビルド構成を追加して、スキームを3つにしました。 
 
-good luck.
+これは、Xcodeシングルビューアプリケーションの初期状態からViewController.swiftにマクロを追加しただけの単純なサンプルアプリです。
